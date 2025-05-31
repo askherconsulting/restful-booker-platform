@@ -8,6 +8,7 @@ RBP is currently known to work with the following requirements:
 - Maven 3.6.3
 - Node 22.14.0
 - NPM 10.9.2
+- Visual Studio Code 2015 or higher (note must include the Desktop Development with C++ workload)
 
 ## Building locally
 
